@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+               /*Inizio titolo*/
 .logo{
   vertical-align: middle;
   margin-left: 15px;
@@ -14,15 +14,14 @@
   display: inline-block;
   vertical-align: middle;
   font-size: 40px;
-}  
-
-
+  font-family: Mukta;
+}                   /*inizio button*/
 .button{
   width: 1500px;
   margin: auto;
   margin-top: 50px;
 }
-
+           
 #button1{
   background-color: #3089e4f2;
   color: white;
@@ -40,13 +39,12 @@
   padding: 6px;
   border-radius: 6px;
 }
-
+             /*lista tabella non ordinata*/
 .lista{
   width: 1500px;
   margin: auto;
   margin-top: 60px;
   font-size: 18px;
-  font-style: inherit;
 }
 
 .elemento{
@@ -58,12 +56,12 @@
 }
 
 .uguale{
-  padding: 7px;
+  padding: 4px 10px;
   border-radius: 12px;
   font-size: 11px;
   color: white;
 }
-
+              
 .decorazione{
   background-color:#3089e4f2;
 }
@@ -91,5 +89,6 @@
 li{
   padding-top: 15px;
   list-style: none;
+  font-family: Mukta;
 }
 
