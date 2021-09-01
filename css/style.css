@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo{
+  vertical-align: middle;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+#title{
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 40px;
+}  
+
+
+.button{
+  width: 1500px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+#button1{
+  background-color: #3089e4f2;
+  color: white;
+  border-color: #3089e4f2;
+}
+
+#button2{
+  color: lightgray;
+  border-color: lightgray;
+  background-color: white;
+  border-width: thin;
+}
+
+.buttons{
+  padding: 6px;
+  border-radius: 6px;
+}
+
+.lista{
+  width: 1500px;
+  margin: auto;
+  margin-top: 60px;
+  font-size: 18px;
+  font-style: inherit;
+}
+
+.elemento{
+  font-weight: 900;
+  font-size: 20px;
+  width: 1500px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.uguale{
+  padding: 7px;
+  border-radius: 12px;
+  font-size: 11px;
+  color: white;
+}
+
+.decorazione{
+  background-color:#3089e4f2;
+}
+
+.viola{
+  background-color:#7e4ad0e3;
+}
+
+.verde{
+  background-color: #008074a6;
+}
+
+.orange{
+  background-color: #e49959;
+}
+
+.rosa{
+  background-color: #e91eb4db;
+}
+
+.sales{
+  background-color: #9ec363;
+}
+
+li{
+  padding-top: 15px;
+  list-style: none;
+}
+
